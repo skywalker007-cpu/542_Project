@@ -14,4 +14,6 @@ This is the repo for the 542 Project.
 ## Steps for running files
 - Clone the entire repository
 - Open the `RQ1.ipynb` for Q1 and etc
+- Run the code
+- See the results/plots from the output
 - If error happens, see if the filename in the code is wrong.
