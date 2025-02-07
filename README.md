@@ -12,7 +12,6 @@ This is the repo for the 542 Project.
 - `20230727_195954_discussion_sharings.json` is for Q7
 
 ## Steps for running files
-- For running all the `ipynb` files, the user will need to pull all the `json` files from the repository as well.
-*Therefore, the suggestion will be to clone the entire repository in order to make the files work properly*
-- When the repository is being successfully cloned, open the file for each research question, and run the code in the file. After that, the corresponding output should be displayed.
-(**If not, try to change the file name if it is incorrect**)
+- Clone the entire repository
+- Open the `RQ1.ipynb` for Q1 and etc
+- If error happens, see if the filename in the code is wrong.
