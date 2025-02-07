@@ -14,4 +14,5 @@ This is the repo for the 542 Project.
 ## Steps for running files
 - For running all the `ipynb` files, the user will need to pull all the `json` files from the repository as well.
 *Therefore, the suggestion will be to clone the entire repository in order to make the files work properly*
-- After cloning, open the file for each research question, and the corresponding output should be displayed. (**If not, try to change the file name if it is incorrect**)
+- When the repository is being successfully cloned, open the file for each research question, and run the code in the file. After that, the corresponding output should be displayed.
+(**If not, try to change the file name if it is incorrect**)
